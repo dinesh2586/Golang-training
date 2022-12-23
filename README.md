@@ -1,6 +1,8 @@
 # Golang-training
 #installed git
 #installed go and visul studio
-#linux is pending i will do it by this evening 
+#practiced linux 
 #hello pgm excuted
 #installed docker
+ #assignment 2 completed
+ #assignment 3 completed
